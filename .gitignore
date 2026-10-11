@@ -1,0 +1,13 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets and local configuration
+.env
+
+# MIMIC-III data
+data/raw/
+data/processed/
